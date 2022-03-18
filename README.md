@@ -11,4 +11,4 @@
 
 ### Listening to music helps me relax so I hope you relax too!
 
-### [Sir Gain's Link] (https://641n.github.io/computer-9/)
+### [Sir Gain's Link](https://641n.github.io/computer-9/)
